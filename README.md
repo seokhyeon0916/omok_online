@@ -1,22 +1,22 @@
 # 오목
 ![image](https://user-images.githubusercontent.com/39435764/100514020-b9710c00-31b4-11eb-8c90-b6dff29b0e6c.png)
 
-* 프로젝트 설명  
-  * 33 가능한 오목, 시간 제한, 무르기 없는 오목
-  * 오목 설명 link https://en.wikipedia.org/wiki/Gomoku
+* project description(프로젝트 설명)
+  * Omok with no undo, 3*3 rule applied, time limited
+  * Omok description link https://en.wikipedia.org/wiki/Gomoku
  
  
 
-* 팀원 
+* Team Members(팀원)
   * 소프트웨어융합대학 20205146 김재형
   * 소프트웨어융합대학 20205206 운석현
   * 소프트웨어융합대학 20205209 유수경
 
-* 프로젝트 개선 방향
-  * 33 룰 적용, 턴 시간 제한, 모바일 앱으로 구현하기
+* Project improvement direction(프로젝트 개선방향)
+  * Apply the 3*3 rule to limit the turn time and implement it as a mobile application
 
 
-* 시연 영상   
+* demonstration video(시연영상)  
   https://youtu.be/fKeqeJdGA_M
 
 
